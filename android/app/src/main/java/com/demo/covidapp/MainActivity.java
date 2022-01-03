@@ -1,4 +1,4 @@
-package com.covidapp;
+package com.demo.covidapp;
 
 import android.os.Build;
 import android.os.Bundle;

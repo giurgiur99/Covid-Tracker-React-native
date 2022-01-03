@@ -3,9 +3,11 @@
     "name": "covid-app",
     "slug": "covid-app",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.demo.covidapp",
+      "googleServicesFile": "./google-services.json"
+    }
   },
   "name": "covid-app"
 }
